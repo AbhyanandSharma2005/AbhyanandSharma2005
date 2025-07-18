@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AbhyanandSharma2005
 - 👀 I’m interested in Web-Dev and App Dev along with algorithm reading. 
-- 🌱 I’m currently learning JavaScript and Html. 
-- 💞️ I’m looking to collaborate on Leetcode Projects. 
-- 📫 You can reach me via linked in and can see my intrests there also. 
+- 📫 You can reach me via linkedin and can see my intrests there also. 
 - 😄 My nickname is ASH . 
 - ⚡ Fun fact: I forgot my accessories a lot 😁. 
 
